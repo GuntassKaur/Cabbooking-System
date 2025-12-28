@@ -1,6 +1,6 @@
-# Cabbooking-System
+# Cab Booking-System
 Cab Booking Management System is a Java Swing–based desktop application developed using NetBeans IDE. It features email-based user authentication, forgot password functionality, and cab detail management. The system uses MySQL with JDBC for secure data storage and efficient database operations.
-#  Cab Booking Management System
+
 
 This is a **Java Swing desktop application** built using **NetBeans IDE** to manage cab bookings. The system is designed to be simple and user-friendly, allowing both **users and admins** to perform their tasks efficiently.
 
